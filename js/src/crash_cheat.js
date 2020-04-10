@@ -4,8 +4,8 @@ window.onload = function() {
   var titleTime;
   document.addEventListener('visibilitychange', function() {
     if(document.hidden) {
-      $('[rel="icon"]').attr('href', "../../images/favicon-32x32-next.png");
-      $('[rel="shortcut icon"]').attr('href', "../../images/favicon-32x32-next.png");
+      $('[rel="icon"]').attr('href', "../../images/favicon-16x16-next.png");
+      $('[rel="shortcut icon"]').attr('href', "../../images/favicon-16x16-next.png");
       document.title = '(●—●)喔哟，崩溃啦！';
       clearTimeout(titleTime);
     } else {
