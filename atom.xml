@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-09T04:05:15.409Z</updated>
+  <updated>2020-04-10T10:06:31.730Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我的第二</title>
+    <link href="http://yoursite.com/2020/04/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C/"/>
+    <id>http://yoursite.com/2020/04/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C/</id>
+    <published>2020-04-10T10:04:49.000Z</published>
+    <updated>2020-04-10T10:06:31.730Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2020/04/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C/wechat.jpg" style="zoom:67%;">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/2020/04/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C/wechat.jpg&quot; style=&quot;zoom:67%;&quot;&gt;
+
+
+      
+    
+    </summary>
+    
+    
+      <category term="随性" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%80%A7/"/>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我的第一篇博客</title>
     <link href="http://yoursite.com/2020/04/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2020/04/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-04-08T11:57:13.000Z</published>
-    <updated>2020-04-09T04:05:15.409Z</updated>
+    <updated>2020-04-10T10:05:43.032Z</updated>
     
     <content type="html"><![CDATA[<h2 id="感性"><a href="#感性" class="headerlink" title="感性"></a>感性</h2><p>希望能够成功。。。</p>]]></content>
     
